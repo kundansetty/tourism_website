@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.h-center {
+    background-image: url("https://image.freepik.com/free-photo/winter-alpen-lake_181624-10556.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+
+.T-card {
+    text-align: center;
+    background-color: white;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    padding: 10px;
+}
+
+.main-heading {
+    color: black;
+}
+
+.paragraph {
+    color: slategrey;
+}
+
+.button {
+    height: 38px;
+    width: 120px;
+    background-color: #25b1cc;
+    color: white;
+    border-radius: 25px;
+    border-width: 0px;
+}
+
+.favorite-palces-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/towerbg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.main-heading-places {
+    color: white;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: bold;
+    padding: 24px;
+}
+
+.card-container {
+    background-color: white;
+    text-align: left;
+    padding: 12px;
+    margin: 12px;
+    border-radius: 15px;
+}
+
+.image-output {
+    height: 100px;
+    width: 80px;
+}
+
+.heading-in-card {
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 23px;
+}
+
+.para-in-card {
+    color: #6c6b70;
+    font-family: "Roboto";
+    font-size: 13px;
+}
+
+.detail-bg {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.taj-bg {
+    background-color: white;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    margin: 12px;
+    background-size: cover;
+}
+
+.heading-detail-view {
+    font-size: 23px;
+    font-family: "Roboto";
+    color: black;
+    font-weight: bold;
+}
+
+.discription-detail-view {
+    font-family: "Roboto";
+    font-size: 12px;
+}
+
+.padding-detail-view {
+    padding: 16px;
+}
+
+.detail-button {
+    margin-top: 20px;
+}
+
+.list_style_type {
+    list-style-type: circle;
+}
